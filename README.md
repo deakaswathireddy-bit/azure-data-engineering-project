@@ -13,3 +13,7 @@ built to demonstrate real-world ETL and data pipeline scenarios.
 ## Purpose
 This repository is created for interview and learning purposes,
 showcasing end-to-end data engineering workflows.
+## Projects
+1. Incremental Data Load using Azure Data Factory  
+   - Watermark-based loading  
+   - Optimized ETL design
